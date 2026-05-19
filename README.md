@@ -1,2 +1,4 @@
-# YX-26-GREYWOLF-PT-2-SE-
-BRUH! this marks the emergence of the second prototype of my dream plen GREYWOLF.
+<h1 align="center"><b>﷽</b></h1>
+<h1 align="center"> 🛦YX-26 GREY𝑾𝒐𝒍𝒇 PT-2 SE </h1>
+
+
