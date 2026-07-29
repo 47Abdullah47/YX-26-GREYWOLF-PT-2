@@ -17,10 +17,10 @@
 </p>
 <br>
 
-> **Project Status:** Prototype 2 (PT-2) Engineering, Aerodynamic Simulation & CAD Phase 
-> **CAD Platform:** Autodesk Fusion 360  
-> **Development Pipeline:** 
-> **Design Time Investment:** 
+> **Project Status:** Prototype 2 (PT-2) Engineering, Aerodynamic Simulation & CAD Phase <br>
+> **CAD Platform:** Autodesk Fusion 360  <br>
+> **Development Pipeline:** <br>
+> **Design Time Investment:** <br>
 > **Source CAD File:** 💾 [Download Massive Fusion 360 (.f3d) Assembly via Google Drive](https://github.com/47Abdullah47/X-26-GREYWOLF-PT-1/blob/Main-Project-PT-1/SOURCE%20FILE.md)
 
 ---
